@@ -6,6 +6,7 @@ Make sure you have the following installed:
 
 - Node.js (v14 or above) 
 - npm (Node Package Manager) 
+- Git (obviously, you should get that first)
 
 ### Development Mode 
 
