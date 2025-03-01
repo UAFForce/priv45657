@@ -38,7 +38,7 @@ Make sure you have the following installed:
 
 ---
 
-### Production Mode 💥
+### Production Mode 
 
 1. Clone the repository and navigate to the project directory:
 
@@ -67,7 +67,7 @@ Make sure you have the following installed:
 
    In production mode, both the **frontend** and **backend** are served on the same port (`http://localhost:3000`).
 
-> Don't forget to add the necessary files `data/proxies.txt` and `data/uas.txt`.
+> DO NOT CLOSE THE SHELL WINDOW, OR THE SERVER WILL AUTOMATICALLY CLOSE
 
 ## Usage 
 
